@@ -1,0 +1,17 @@
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\Make_Home_Life_Easier.exe.config
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\Make_Home_Life_Easier.exe
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\Make_Home_Life_Easier.pdb
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\CircularProgressBar.dll
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\WinFormAnimation.dll
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\CircularProgressBar.xml
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\bin\Debug\WinFormAnimation.xml
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.csprojAssemblyReference.cache
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.frmControlPanel.resources
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.frmHomepage.resources
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.How_to_use.resources
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.Properties.Resources.resources
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.csproj.GenerateResource.cache
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.csproj.CoreCompileInputs.cache
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.csproj.CopyComplete
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.exe
+D:\3. sınıf 1. dönem\C# ile Programlama\Proje\Proje Denemeleri\Motion_Sensor_Control\Motion_Sensor_Control\obj\Debug\Make_Home_Life_Easier.pdb
