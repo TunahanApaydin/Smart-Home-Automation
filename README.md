@@ -10,4 +10,5 @@ Advices:
 3- I recommend that you use an industrial battery to feed the system. If you want to use a regular battary, you may have to connect several batteries in parallel because their power is not good enough. 
 Note: I used the L293B motor driver for the DC motors.
 Note 2: You should determine the components of the system according to your project, so you should not try to stick to the products I use.
+Note 3: Earlier in the project, I created the project to test the motion sensor. Then, when I made rapid progress, I built everything on that project. That's why the name of the project files remained 'motion sensor control'.
 Have a nice coding day :)
