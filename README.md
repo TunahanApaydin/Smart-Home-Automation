@@ -12,3 +12,5 @@ Note: I used the L293B motor driver for the DC motors.
 Note 2: You should determine the components of the system according to your project, so you should not try to stick to the products I use.
 Note 3: Earlier in the project, I created the project to test the motion sensor. Then, when I made rapid progress, I built everything on that project. That's why the name of the project files remained 'motion sensor control'.
 Have a nice coding day :)
+
+Youtube video link: https://youtu.be/bYDCL9sZxlk
